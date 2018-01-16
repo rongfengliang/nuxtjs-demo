@@ -17,6 +17,10 @@ $ npm start
 
 # generate static project
 $ npm run generate
+
+# docker run 
+$ docker build -t demoapp .
+$ docker run -d -p 3000:3000 demoapp
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
