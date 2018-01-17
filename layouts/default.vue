@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>dalong demo layout</h1>
     <nuxt/>
   </div>
 </template>
