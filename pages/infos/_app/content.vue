@@ -1,5 +1,5 @@
 <template>
   <div class="app-content">
-      appcontent page
+      appcontent page for nested
   </div>
 </template>

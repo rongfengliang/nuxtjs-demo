@@ -7,8 +7,10 @@
 <script>
 export default {
   layout: 'my',
-  data: {
-    message: 'dalong'
+  data () {
+    return {
+      message: 'dalong --infos'
+    }
   }
 }
 </script>
